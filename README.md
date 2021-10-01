@@ -1,4 +1,4 @@
-### Hola, I'm Rohan 👋
+### Hey, I'm Rohan 👋
 
 
 - 🔭 I’m currently working in GWOC'21 as a front-end developer
