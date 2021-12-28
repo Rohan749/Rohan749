@@ -1,7 +1,7 @@
 # Hey, I'm Rohan 👋
 
 
-- 🔭 I've worked in GWOC'21 as a Front-end developer
+- 🔭 I've worked in GWOC'21 as a Contributor in Front-end development
 - 🌱 I’m currently learning **Docker**
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about Front-end with HTML, CSS and JS
