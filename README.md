@@ -2,7 +2,7 @@
 
 
 - 🔭 I've worked in GWOC'21 as a Contributor in Front-end development
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **KUBERNETES**
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about Front-end with HTML, CSS and JS
 - 📫 How to reach me:  
