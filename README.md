@@ -6,24 +6,32 @@
 ### - 🔭 I've also got selected in Script Winter of Contributing.
 ### - 🔭 I won HacktoberFest'21 by making valid contributions in this amazing open-source community!
 ### - 🔭 Completed solving 200+ GFG problems!
+<br>
+
+
 ##  🎒 Some Of my Amazing Projects include:<br>
 <ol>
     <li><strong> Graffiti Calculator: https://github.com/Rohan749/Basic-Calculator </strong></li>
+    <br>
     <li><strong> Random BG Changer: https://github.com/Rohan749/Random-Background-Changing-Webpage </strong> </li>
+    <br>
     <li><strong> Artist Webpage: https://github.com/Rohan749/Artist_webpage </strong> </li>
+    <br>
     <li><strong> Stock Market Webpage: https://github.com/Rohan749/Stock-Market-Webpage </strong> </li>
+    <br>
     <li><strong> Food-Ordering Webpage: https://github.com/Rohan749/Food-ordering-webpage </strong> </li>
+    <br>
 </ol>
 
-## 🎒 Here are some of my threads on web-servers, Docker and Kubernetes! 
+## 🎒 Here are some of my threads on Web-Servers, Docker and Kubernetes! 
 <ul>
-   <li>What are Web Servers?<br> https://twitter.com/heyrohan7/status/1481443203077505024?s=20&t=_f_tUGLWkjnOGYAuOHWnZQ</li>
-    <li>What are Kubernetes Objects? How to create a Deployment in your Local PC?</li>
-    https://twitter.com/heyrohan7/status/1497926422181994498?s=20&t=7ECNQatL-82YeYYr4Qlvwg
-   <li>What are K8s Pods and how to create them? <br>
-         https://twitter.com/heyrohan7/status/1498506043113967623?s=20&t=7ECNQatL-82YeYYr4Qlvwg </li>
-   <li>How to containerize your webpage on local PC and view it?<br>
-       https://twitter.com/heyrohan7/status/1500157555439325187?s=20&t=7ECNQatL-82YeYYr4Qlvwg</li>
+   <strong><li>What are Web Servers?</strong><br> https://twitter.com/heyrohan7/status/1481443203077505024?s=20&t=_f_tUGLWkjnOGYAuOHWnZQ</li><br>
+     <strong><li>What are Kubernetes Objects? How to create a Deployment in your Local PC?</strong><br>
+    https://twitter.com/heyrohan7/status/1497926422181994498?s=20&t=7ECNQatL-82YeYYr4Qlvwg</li><br>
+    <strong><li>What are K8s Pods and how to create them?</strong> <br>
+         https://twitter.com/heyrohan7/status/1498506043113967623?s=20&t=7ECNQatL-82YeYYr4Qlvwg </li><br>
+   <strong><li>How to containerize your webpage on local PC and view it?</strong><br>
+       https://twitter.com/heyrohan7/status/1500157555439325187?s=20&t=7ECNQatL-82YeYYr4Qlvwg</li><br>
     </ul>
         
  ### 🎒 <strong>Here's my blog on Docker:</strong><br> 
