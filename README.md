@@ -41,7 +41,7 @@
 <br>
 <strong>Currently:</strong>
       <ul> <strong>
-    <li> 🌱 I’m learning **REACT** </li>
+    <li> 🌱 I’m learning <strong>REACT</strong> </li>
     <li> 👯 I’m looking to collaborate on Github </li>
     <strong>
     </ul>
