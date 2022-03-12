@@ -1,36 +1,52 @@
 # Hey, I'm Rohan 👋
 
+## A bit about my Technical Background👇
 
-- 🔭 I've worked in GWOC'21 as a Contributor in Front-end development
-- 🔭 I've also got selected in Script Winter of Contributing.
-- 🔭 I won HacktoberFest'21 by making valid contributions in this amazing open-source community!
--    Some Of my Amazing Projects include:<br>
-    1. Graffiti Calculator: https://github.com/Rohan749/Basic-Calculator<br>
-    2. Random BG Changer: https://github.com/Rohan749/Random-Background-Changing-Webpage<br>
-    3. Artist Webpage: https://github.com/Rohan749/Artist_webpage<br>
-    4. Stock Market Webpage: https://github.com/Rohan749/Stock-Market-Webpage<br>
-    5. Food-Ordering Webpage: https://github.com/Rohan749/Food-ordering-webpage<br>
+### - 🔭 I've worked in GWOC'21 as a Contributor in Front-end development
+### - 🔭 I've also got selected in Script Winter of Contributing.
+### - 🔭 I won HacktoberFest'21 by making valid contributions in this amazing open-source community!
+### - 🔭 Completed solving 200+ GFG problems!
+##  🎒 Some Of my Amazing Projects include:<br>
+<ol>
+    <li><strong> Graffiti Calculator: https://github.com/Rohan749/Basic-Calculator </strong></li>
+    <li><strong> Random BG Changer: https://github.com/Rohan749/Random-Background-Changing-Webpage </strong> </li>
+    <li><strong> Artist Webpage: https://github.com/Rohan749/Artist_webpage </strong> </li>
+    <li><strong> Stock Market Webpage: https://github.com/Rohan749/Stock-Market-Webpage </strong> </li>
+    <li><strong> Food-Ordering Webpage: https://github.com/Rohan749/Food-ordering-webpage </strong> </li>
+</ol>
 
-- I have also written blog on Docker:<br> https://docs.google.com/document/d/13IG-tjgMfl1wtGKkmnOKBS7rVmKoHqH_bMWkSc4xYcQ/edit?usp=sharing <br>
-  Do give it a read and share your thoughts!<br>
-- Here are some of my threads on web-servers, Docker and Kubernetes! <br>
-      - What are Web Servers?<br> https://twitter.com/heyrohan7/status/1481443203077505024?s=20&t=_f_tUGLWkjnOGYAuOHWnZQ <br>
-      - What are Kubernetes Objects? How to create a Deployment in your Local PC?<br>
-         https://twitter.com/heyrohan7/status/1497926422181994498?s=20&t=7ECNQatL-82YeYYr4Qlvwg<br>
-      - What are K8s Pods and how to create them? <br>
-         https://twitter.com/heyrohan7/status/1498506043113967623?s=20&t=7ECNQatL-82YeYYr4Qlvwg <br>
-      - How to containerize your webpage on local PC and view it?<br>
-        https://twitter.com/heyrohan7/status/1500157555439325187?s=20&t=7ECNQatL-82YeYYr4Qlvwg<br>
+## 🎒 Here are some of my threads on web-servers, Docker and Kubernetes! 
+<ul>
+   <li>What are Web Servers?<br> https://twitter.com/heyrohan7/status/1481443203077505024?s=20&t=_f_tUGLWkjnOGYAuOHWnZQ</li>
+    <li>What are Kubernetes Objects? How to create a Deployment in your Local PC?</li>
+    https://twitter.com/heyrohan7/status/1497926422181994498?s=20&t=7ECNQatL-82YeYYr4Qlvwg
+   <li>What are K8s Pods and how to create them? <br>
+         https://twitter.com/heyrohan7/status/1498506043113967623?s=20&t=7ECNQatL-82YeYYr4Qlvwg </li>
+   <li>How to containerize your webpage on local PC and view it?<br>
+       https://twitter.com/heyrohan7/status/1500157555439325187?s=20&t=7ECNQatL-82YeYYr4Qlvwg</li>
+    </ul>
         
-      
-- 🌱 I’m currently learning **REACT**
-- 👯 I’m looking to collaborate on Github
-- 💬 Ask me about Front-end with HTML, CSS and JS
-- 📫 How to reach me:  
-      [Twitter - @heyrohan7](https://twitter.com/heyrohan7)   
-      [LinkedIn - Rohan Kumar Pandey](https://www.linkedin.com/in/rohan-kumar-pandey-25a263208/)  
-      [Instagram - rohanpandey749](https://www.instagram.com/rohanpandey749/)  
+ ### 🎒 <strong>Here's my blog on Docker:</strong><br> 
+ <ul><li>https://docs.google.com/document/d/13IG-tjgMfl1wtGKkmnOKBS7rVmKoHqH_bMWkSc4xYcQ/edit?usp=sharing <br></li></ul>
+<strong> Do give it a read and share your thoughts!<br></strong>
+<br>
+<br>
+<strong>Currently:</strong>
+      <ul> <strong>
+    <li> 🌱 I’m learning **REACT** </li>
+    <li> 👯 I’m looking to collaborate on Github </li>
+    <strong>
+    </ul>
+    
+    
+## - 📫 How to reach me?:  
+<ul>
+  <li>Twitter - https://twitter.com/heyrohan7</li>   
+  <li>LinkedIn - https://www.linkedin.com/in/rohan-kumar-pandey-25a263208/</li>
+  <li>Instagram - https://www.instagram.com/rohanpandey749/ </li>
+  <li>GeeksForGeeks - https://auth.geeksforgeeks.org/user/rohanpandey749/practice/</li> 
+</ul>
 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm a fun loving artist. Checkout my art on instagram!: [rohanpandey749](https://www.instagram.com/rohanpandey749/) 
+### - 😄 Pronouns: He/His
+### - ⚡ Fun fact: I'm a fun loving artist. Checkout my art on instagram!: [rohanpandey749](https://www.instagram.com/rohanpandey749/) 
 
