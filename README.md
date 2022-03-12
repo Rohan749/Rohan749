@@ -5,7 +5,7 @@
 ### - 🔭 I've worked in GWOC'21 as a Contributor in Front-end development
 ### - 🔭 I've also got selected in Script Winter of Contributing.
 ### - 🔭 I won HacktoberFest'21 by making valid contributions in this amazing open-source community!
-### - 🔭 Completed solving 200+ GFG problems!
+### - 🔭 I've successfully solved 200+ GeeksForGeeks problems!
 <br>
 
 
