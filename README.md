@@ -3,7 +3,7 @@
 ## A bit about my Technical Background👇
 
 ### - 🔭 I've worked in GWOC'21 as a Contributor in Front-end development
-### - 🔭 I've also got selected in Script Winter of Contributing.
+### - 🔭 I've projects got selected in Script Winter of Contributing.
 ### - 🔭 I won HacktoberFest'21 by making valid contributions in this amazing open-source community!
 ### - 🔭 I've successfully solved 200+ GeeksForGeeks problems!
 <br>
