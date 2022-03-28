@@ -9,7 +9,7 @@
 <br>
 
 
-##  🎒 Some Of my Amazing Projects include:<br>
+##  🎒 Some Of my Front-end Projects include:<br>
 <ol>
     <li><strong> Graffiti Calculator: https://github.com/Rohan749/Basic-Calculator </strong></li>
     <br>
