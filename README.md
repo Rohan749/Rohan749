@@ -11,6 +11,8 @@
 
 ##  🎒 Some Of my Front-end Projects include:<br>
 <ol>
+    <li><strong> Art Choice Predictor: https://github.com/Rohan749/Art-Choice-Predictor </strong></li>
+    <br>
     <li><strong> Graffiti Calculator: https://github.com/Rohan749/Basic-Calculator </strong></li>
     <br>
     <li><strong> Random BG Changer: https://github.com/Rohan749/Random-Background-Changing-Webpage </strong> </li>
