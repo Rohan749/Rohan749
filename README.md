@@ -25,6 +25,18 @@
     <br>
 </ol>
 
+## 🎒 Apps that I created for Rocket.Chat:
+   <ul>
+    <li> 
+      <strong>Apps.Community.Welcome:</strong> https://github.com/Rohan749/Apps.Community.Welcome 
+    </li>
+    <br>
+    <li>
+       <strong>Apps.Community.Welcome(v2):</strong> https://github.com/Rohan749/Apps.Community.Welcome.v2
+    </li>
+   </ul>
+   <br>
+
 ## 🎒 Here are some of my threads on Web-Servers, Docker and Kubernetes! 
 <ul>
    <strong><li>What are Web Servers?</strong><br> https://twitter.com/heyrohan7/status/1481443203077505024?s=20&t=_f_tUGLWkjnOGYAuOHWnZQ</li><br>
