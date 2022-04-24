@@ -16,7 +16,7 @@
 <br>
 
 
-##  🎒 Some Of my Front-end Projects include:💂‍♀️<br>
+##  🎒 Some Of my Front-end Projects:💂‍♀️<br>
 <ol>
     <li><strong> Art Choice Predictor: https://github.com/Rohan749/Art-Choice-Predictor </strong></li>
     <br>
