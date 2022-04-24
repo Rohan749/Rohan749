@@ -35,7 +35,7 @@
 ## 🎒 Apps that I created for Rocket.Chat:🚀
    <ul>
     <li> 
-      [Apps.Community.Welcome]( https://github.com/Rohan749/Apps.Community.Welcome )
+        <strong>Apps.Community.Welcome:</strong>( https://github.com/Rohan749/Apps.Community.Welcome 
     </li>
     <br>
     <li>
