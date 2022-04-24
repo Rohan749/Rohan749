@@ -42,10 +42,10 @@
 
 # 🎒 Some of my threads on Web-Servers, Docker and Kubernetes!☸️ 
 
-### [What are Web Servers?](https://twitter.com/heyrohan7/status/1481443203077505024?s=20&t=_f_tUGLWkjnOGYAuOHWnZQ)
-### [What are Kubernetes Objects? How to create a Deployment in your Local PC?](https://twitter.com/heyrohan7/status/1497926422181994498?s=20&t=7ECNQatL-82YeYYr4Qlvwg)
-### [What are K8s Pods and how to create them?](https://twitter.com/heyrohan7/status/1498506043113967623?s=20&t=7ECNQatL-82YeYYr4Qlvwg)
-### [How to containerize your webpage on local PC and view it?](https://twitter.com/heyrohan7/status/1500157555439325187?s=20&t=7ECNQatL-82YeYYr4Qlvwg)
+### - [What are Web Servers?](https://twitter.com/heyrohan7/status/1481443203077505024?s=20&t=_f_tUGLWkjnOGYAuOHWnZQ)
+### - [What are Kubernetes Objects? How to create a Deployment in your Local PC?](https://twitter.com/heyrohan7/status/1497926422181994498?s=20&t=7ECNQatL-82YeYYr4Qlvwg)
+### - [What are K8s Pods and how to create them?](https://twitter.com/heyrohan7/status/1498506043113967623?s=20&t=7ECNQatL-82YeYYr4Qlvwg)
+### - [How to containerize your webpage on local PC and view it?](https://twitter.com/heyrohan7/status/1500157555439325187?s=20&t=7ECNQatL-82YeYYr4Qlvwg)
 
 <br>
         
