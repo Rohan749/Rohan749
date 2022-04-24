@@ -1,6 +1,5 @@
 # Hey, I'm Rohan <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" alt="" style="width:48px;height:48px;">
 
-<br>
 
 ### I'm a Programmer, Contributor, and Artist who just love to build stuff. Currently, I'm a sophomore, pursuing b-tech from Dayananda Sagar College of Engineering, Bengaluru.
 
