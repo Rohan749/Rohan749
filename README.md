@@ -49,7 +49,7 @@
 
 <br>
         
- ## 🎒 Here's my blog on [Docker🐋](https://docs.google.com/document/d/13IG-tjgMfl1wtGKkmnOKBS7rVmKoHqH_bMWkSc4xYcQ/edit?usp=sharing) Do give it a read and share your thoughts!
+ ## 🎒 Here's my blog on [Docker](https://docs.google.com/document/d/13IG-tjgMfl1wtGKkmnOKBS7rVmKoHqH_bMWkSc4xYcQ/edit?usp=sharing) 🐋. <br>Do give it a read and share your thoughts!
 <br>
 <br>
 <strong>Currently:</strong>
