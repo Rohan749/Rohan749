@@ -48,7 +48,6 @@
 ### [How to containerize your webpage on local PC and view it?](https://twitter.com/heyrohan7/status/1500157555439325187?s=20&t=7ECNQatL-82YeYYr4Qlvwg)
 
 <br>
-<br>
         
  ## 🎒 Here's my blog on [Docker🐋](https://docs.google.com/document/d/13IG-tjgMfl1wtGKkmnOKBS7rVmKoHqH_bMWkSc4xYcQ/edit?usp=sharing) Do give it a read and share your thoughts!
 <br>
@@ -59,9 +58,10 @@
     <li> 👯 I’m looking to collaborate on Github </li>
     <strong>
     </ul>
+ 
+ <br>
     
-    
-## - 📫 How to reach me?:  
+# - 📫 How to reach me?:  
 <ul>
   <li>Twitter - https://twitter.com/heyrohan7</li>   
   <li>LinkedIn - https://www.linkedin.com/in/rohan-kumar-pandey-25a263208/</li>
