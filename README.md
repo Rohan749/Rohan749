@@ -14,35 +14,33 @@
 ### - 🔭 I won HacktoberFest'21 by making valid contributions in this amazing open-source community!
 ### - 🔭 I've successfully solved 250+ GeeksForGeeks problems!
 <br>
+<br>
 
 
-##  🎒 Some Of my Front-end Projects:💂‍♀️<br>
-<ol>
-    <li><strong> Art Choice Predictor: https://github.com/Rohan749/Art-Choice-Predictor </strong></li>
-    <br>
-    <li><strong> Graffiti Calculator: https://github.com/Rohan749/Basic-Calculator </strong></li>
-    <br>
-    <li><strong> Random BG Changer: https://github.com/Rohan749/Random-Background-Changing-Webpage </strong> </li>
-    <br>
-    <li><strong> Artist Webpage: https://github.com/Rohan749/Artist_webpage </strong> </li>
-    <br>
-    <li><strong> Stock Market Webpage: https://github.com/Rohan749/Stock-Market-Webpage </strong> </li>
-    <br>
-    <li><strong> Food-Ordering Webpage: https://github.com/Rohan749/Food-ordering-webpage </strong> </li>
-    <br>
-</ol>
+#  🎒 Some Of my Front-end Projects:💂‍♀️<br>
 
-## 🎒 Apps that I created for Rocket.Chat:🚀
-   <ul>
-    <li> 
-        <strong>Apps.Community.Welcome:</strong> https://github.com/Rohan749/Apps.Community.Welcome 
-    </li>
-    <br>
-    <li>
-       <strong>Apps.Community.Welcome(v2):</strong> https://github.com/Rohan749/Apps.Community.Welcome.v2
-    </li>
-   </ul>
-   <br>
+### 1. [Art Choice Predictor](https://github.com/Rohan749/Art-Choice-Predictor)
+
+### 2. [Graffiti Calculator](https://github.com/Rohan749/Basic-Calculator) 
+ 
+### 3. [Random BG Changer](https://github.com/Rohan749/Random-Background-Changing-Webpage) 
+
+### 4. [Artist Webpage](https://github.com/Rohan749/Artist_webpage)  
+
+### 5. [Stock Market Webpage](https://github.com/Rohan749/Stock-Market-Webpage) 
+
+### 6. [Food-Ordering Webpage](https://github.com/Rohan749/Food-ordering-webpage) 
+
+<br>
+<br>
+
+# 🎒 Apps that I created for Rocket.Chat:🚀
+ 
+### 1. [Apps.Community.Welcome](https://github.com/Rohan749/Apps.Community.Welcome)
+
+### 2. [Apps.Community.Welcome(v2)](https://github.com/Rohan749/Apps.Community.Welcome.v2)
+
+<br>
 
 ## 🎒 Here are some of my threads on Web-Servers, Docker and Kubernetes!☸️ 
 <ul>
