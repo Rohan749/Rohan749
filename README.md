@@ -9,7 +9,7 @@
 <br>
 
 
-##  🎒 Some Of my Front-end Projects include:<br>
+##  🎒 Some Of my Front-end Projects include:💂‍♀️<br>
 <ol>
     <li><strong> Art Choice Predictor: https://github.com/Rohan749/Art-Choice-Predictor </strong></li>
     <br>
@@ -25,7 +25,7 @@
     <br>
 </ol>
 
-## 🎒 Apps that I created for Rocket.Chat:
+## 🎒 Apps that I created for Rocket.Chat:🚀
    <ul>
     <li> 
       <strong>Apps.Community.Welcome:</strong> https://github.com/Rohan749/Apps.Community.Welcome 
@@ -37,7 +37,7 @@
    </ul>
    <br>
 
-## 🎒 Here are some of my threads on Web-Servers, Docker and Kubernetes! 
+## 🎒 Here are some of my threads on Web-Servers, Docker and Kubernetes!☸️ 
 <ul>
    <strong><li>What are Web Servers?</strong><br> https://twitter.com/heyrohan7/status/1481443203077505024?s=20&t=_f_tUGLWkjnOGYAuOHWnZQ</li><br>
      <strong><li>What are Kubernetes Objects? How to create a Deployment in your Local PC?</strong><br>
@@ -48,7 +48,7 @@
        https://twitter.com/heyrohan7/status/1500157555439325187?s=20&t=7ECNQatL-82YeYYr4Qlvwg</li><br>
     </ul>
         
- ### 🎒 <strong>Here's my blog on Docker:</strong><br> 
+ ### 🎒 <strong>Here's my blog on Docker:🐋</strong><br> 
  <ul><li>https://docs.google.com/document/d/13IG-tjgMfl1wtGKkmnOKBS7rVmKoHqH_bMWkSc4xYcQ/edit?usp=sharing <br></li></ul>
 <strong> Do give it a read and share your thoughts!<br></strong>
 <br>
