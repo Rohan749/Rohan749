@@ -1,4 +1,5 @@
-# Hey, I'm Rohan 👋
+# Hey, I'm Rohan <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" alt="" style="width:48px;height:48px;">
+
 
 ## A bit about my Technical Background👇
 
