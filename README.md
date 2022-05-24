@@ -82,7 +82,7 @@
  
  <br>
     
-# 📫 How to reach me?: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> 
+# 📫 Let's Connect! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height ="40px" width="80px"> 
 
  <a href="https://twitter.com/heyrohan7">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
@@ -100,8 +100,7 @@
   <img align="left" height="30px" width="30px" src="https://img.icons8.com/color/344/GeeksforGeeks.png"/>
 </a>
 <br>
+<br>
 
 ###  - Pronouns: He/His
-###  - Fun fact: I'm a fun loving artist. Checkout my art on <a href="https://www.instagram.com/rohanpandey749/">
- <img height="35px" width="35px" src="https://img.icons8.com/fluency/344/instagram-new.png"/>
-</a>
+###  - Fun fact: I'm a fun loving artist. Checkout my creations at <a href="https://www.instagram.com/rohanpandey749/"><img align="top" align="bottom" height="35px" width="35px" src="https://img.icons8.com/fluency/344/instagram-new.png"/></a>
