@@ -40,7 +40,15 @@
 
 <br>
 
-#  🎒 Some Of my Front-end Projects:💂‍♀️<br>
+#  🎒 My React Projects:💂‍♀️<br>
+
+### 1. [Choice-Predicting-App](https://github.com/Rohan749/Choice-Predicting-App)
+### 2. [To-Do-List](https://github.com/Rohan749/To-Do-List_react-app)
+### 3. [Expense-App](https://github.com/Rohan749/Expenses-App)
+
+<br>
+
+#  🎒 My Front-end Projects:💂‍♀️<br>
 
 ### 1. [Art Choice Predictor](https://github.com/Rohan749/Art-Choice-Predictor)
 
