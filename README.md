@@ -84,23 +84,26 @@
     
 # 📫 Let's Connect! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height ="40px" width="80px"> 
 
- <a href="https://twitter.com/heyrohan7">
-  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
-</a>
-  <a href="https://www.linkedin.com/in/rohan-kumar-pandey-25a263208/">
-  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
-</a>
- <a href="https://www.instagram.com/rohanpandey749/">
-  <img align="left" height="30px" width="30px" src="https://img.icons8.com/fluency/344/instagram-new.png"/>
-</a>
- <a href="mailto:rohanpandey749@gmail.com">
-  <img align="left" width="25px" height="20px" src="https://user-images.githubusercontent.com/79656610/153365045-a33a8dac-6632-4357-8194-8212ea23256b.png" />
-</a>
- <a href="https://auth.geeksforgeeks.org/user/rohanpandey749/practice/">
-  <img align="left" height="30px" width="30px" src="https://img.icons8.com/color/344/GeeksforGeeks.png"/>
-</a>
+ <p align="center" style="margin-top:-10px">
+ <a href="https://twitter.com/heyrohan7" style="text-decoration: none;"><img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png"  alt="Twitter" height="40" style=""/></a>&nbsp;
+ 
+ <a href="https://www.linkedin.com/in/rohan-kumar-pandey-25a263208/" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="; border-radius:5px;">
+  </a>&nbsp;
+ 
+ <a href="https://www.instagram.com/rohanpandey749/" style="text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/344/instagram-new.png" alt="Instagram" height="40" style="">
+  </a>&nbsp;
+ 
+ <a href="mailto:rohanpandey749@gmail.com" style="text-decoration: none;">
+  <img src="https://user-images.githubusercontent.com/79656610/153365045-a33a8dac-6632-4357-8194-8212ea23256b.png" alt="Gmail" height="40" style=""/></a>&nbsp;
+ 
+ <a href="https://auth.geeksforgeeks.org/user/rohanpandey749/practice/" style="text-decoration: none;">
+  <img src="https://img.icons8.com/color/344/GeeksforGeeks.png" alt="GeeksForGeeks" height="40" style=""/></a>&nbsp;
 <br>
 <br>
+ </p>
 
 ###  - Pronouns: He/His
-###  - Fun fact: I'm a fun loving artist. Checkout my creations at <a href="https://www.instagram.com/rohanpandey749/"><img align="top" align="bottom" height="35px" width="35px" src="https://img.icons8.com/fluency/344/instagram-new.png"/></a>
+###  - Fun fact: I'm a fun loving artist. Checkout my creations at <a href="https://www.instagram.com/rohanpandey749/" style="text-decoration: none;"><img src="https://img.icons8.com/fluency/344/instagram-new.png" alt="Instagram" height="40" style=""/></a>
+
