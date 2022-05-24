@@ -75,13 +75,13 @@
 <strong>Currently:</strong>
       <ul> <strong>
     <li> 🌱 I’m learning <strong>REACT</strong> </li>
-    <li> 👯 I’m looking to collaborate on Github </li>
+    <li> 👯 I’m looking for internship! </li>
     <strong>
     </ul>
  
  <br>
     
-# - 📫 How to reach me?: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> 
+# 📫 How to reach me?: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> 
 
  <a href="https://twitter.com/heyrohan7">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
@@ -100,6 +100,7 @@
 </a>
 <br>
 
-### - 😄 Pronouns: He/His
-### - ⚡ Fun fact: I'm a fun loving artist. Checkout my art on instagram!: [rohanpandey749](https://www.instagram.com/rohanpandey749/) 
-
+###  - Pronouns: He/His
+###  - Fun fact: I'm a fun loving artist. Checkout my art on <a href="https://www.instagram.com/rohanpandey749/">
+ <img height="35px" width="35px" src="https://img.icons8.com/fluency/344/instagram-new.png"/>
+</a>
