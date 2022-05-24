@@ -36,7 +36,7 @@
 ## Currently:
 
 ###   - 🌱 I’m learning <strong>REACT</strong> 
-###   - 👯 I’m a contributing to Rocket.Chat
+###   - 👯 I’m contributing to Rocket.Chat
 
 <br>
 
