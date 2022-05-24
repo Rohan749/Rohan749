@@ -39,9 +39,9 @@
 ###   - 👯 I’m contributing to Rocket.Chat
 
 <br>
-
-#  <p align="center">💂‍My Projects</p>
 <br>
+
+# 💂‍My Projects
 <br>
 
 ## React based Projects:
@@ -78,7 +78,7 @@
 <br>
 <br>
 
-# 🎒 Some of my threads on Web-Servers, Docker and Kubernetes!☸️ 
+# Some of my threads on Web-Servers, Docker and Kubernetes!☸️ 
 
 ### - [What are Web Servers?](https://twitter.com/heyrohan7/status/1481443203077505024?s=20&t=_f_tUGLWkjnOGYAuOHWnZQ)
 ### - [What are Kubernetes Objects? How to create a Deployment in your Local PC?](https://twitter.com/heyrohan7/status/1497926422181994498?s=20&t=7ECNQatL-82YeYYr4Qlvwg)
