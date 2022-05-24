@@ -40,7 +40,9 @@
 
 <br>
 
-#  🎒 My Projects:💂‍♀️<br>
+#  <p align="center">💂‍My Projects</p>
+<br>
+<br>
 
 ## React based Projects:
 
