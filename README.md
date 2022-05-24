@@ -33,6 +33,12 @@
   <img src="https://user-images.githubusercontent.com/79656610/153700584-835b5a83-fec2-4372-a3d2-336aac49b158.png" alt="Kubernetes" width="55" height="55"/>
 <p/>
 
+## Currently:
+
+###   - 🌱 I’m learning <strong>REACT</strong> 
+###   - 👯 I’m looking for internship!
+
+<br>
 
 #  🎒 Some Of my Front-end Projects:💂‍♀️<br>
 
@@ -72,12 +78,7 @@
  ## 🎒 Here's my blog on [Docker](https://docs.google.com/document/d/13IG-tjgMfl1wtGKkmnOKBS7rVmKoHqH_bMWkSc4xYcQ/edit?usp=sharing) 🐋. <br>Do give it a read and share your thoughts!
 <br>
 <br>
-<strong>Currently:</strong>
-      <ul> <strong>
-    <li> 🌱 I’m learning <strong>REACT</strong> </li>
-    <li> 👯 I’m looking for internship! </li>
-    <strong>
-    </ul>
+
  
  <br>
     
