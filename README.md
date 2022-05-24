@@ -12,7 +12,7 @@
 <br>
 <br>
 
-## My Techstack👇
+## My Techstack
 <p align="center">
  <img src="https://user-images.githubusercontent.com/79656610/153699306-af31cd6d-8143-4877-b95d-72167f80cb3c.png" alt="C++" width="50" height="50"/>
  <img src="https://user-images.githubusercontent.com/79656610/153699416-b1272bcd-43ca-4c89-a7b6-8c05c25e4a69.png" alt="C" width="50" height="50"/>
@@ -113,9 +113,7 @@
  <a href="https://auth.geeksforgeeks.org/user/rohanpandey749/practice/" style="text-decoration: none;">
   <img src="https://img.icons8.com/color/344/GeeksforGeeks.png" alt="GeeksForGeeks" height="40" style=""/></a>&nbsp;
 <br>
-<br>
  </p>
 
-###  - Pronouns: He/His
-###  - Fun fact: I'm a fun loving artist. Checkout my creations at <a href="https://www.instagram.com/rohanpandey749/" style="text-decoration: none;"><img src="https://img.icons8.com/fluency/344/instagram-new.png" alt="Instagram" height="40" style=""/></a>
+###  - Fun fact: I'm a fun loving artist. Checkout my creations on <a href="https://www.instagram.com/rohanpandey749/" style="text-decoration: none;">Instagram</a>
 
