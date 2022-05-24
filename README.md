@@ -40,7 +40,9 @@
 
 <br>
 
-#  🎒 My React Projects:💂‍♀️<br>
+#  🎒 My Projects:💂‍♀️<br>
+
+## React based Projects:
 
 ### 1. [Choice-Predicting-App](https://github.com/Rohan749/Choice-Predicting-App)
 ### 2. [To-Do-List](https://github.com/Rohan749/To-Do-List_react-app)
@@ -48,7 +50,7 @@
 
 <br>
 
-#  🎒 My Front-end Projects:💂‍♀️<br>
+##  Projects using HTML, CSS and JavaScript:💂‍♀️<br>
 
 ### 1. [Art Choice Predictor](https://github.com/Rohan749/Art-Choice-Predictor)
 
@@ -65,7 +67,7 @@
 <br>
 <br>
 
-# 🎒 Apps that I created for Rocket.Chat:🚀
+## Apps that I created for Rocket.Chat:🚀
  
 ### 1. [Apps.Community.Welcome](https://github.com/Rohan749/Apps.Community.Welcome)
 
