@@ -48,7 +48,7 @@
 
 ### 1. [Choice-Predicting-App](https://rohan749.github.io/Choice-Predicting-App/)
 ### 2. [To-Do-List](https://rohan749.github.io/To-Do-List_react-app/)
-### 3. [Expense-App](https://github.com/Rohan749/Expenses-App)
+### 3. [Expense-App](https://rohan749.github.io/Expenses-App/)
 
 <br>
 
