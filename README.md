@@ -1,4 +1,4 @@
-#  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  Hey, I'm Rohan
+#  Hey, I'm Rohan<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ### I'm a Programmer, Contributor, and Artist who just love to build stuff. Currently, I'm a sophomore, pursuing b-tech from Dayananda Sagar College of Engineering, Bengaluru.
 <br>
@@ -9,6 +9,7 @@
 ### - 🔭 I got selected in Script Winter of Contributing(SWOC'21).
 ### - 🔭 I won HacktoberFest'21 by making valid contributions to this amazing open-source community!
 ### - 🔭 I've successfully solved 250+ GeeksForGeeks problems!
+### - 🔭 I've been part of Top 2022 contributors of Rocket.Chat.
 <br>
 <br>
 
@@ -41,10 +42,33 @@
 <br>
 <br>
 
-# 💂‍My Projects
+# Connect with me! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height ="40px" width="80px"> 
+
+ <p align="center" style="margin-top:-10px">
+ <a href="https://twitter.com/heyrohan7" style="text-decoration: none;"><img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png"  alt="Twitter" height="40" style=""/></a>&nbsp;
+ 
+ <a href="https://www.linkedin.com/in/rohan-kumar-pandey-25a263208/" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="; border-radius:5px;">
+  </a>&nbsp;
+ 
+ <a href="https://www.instagram.com/rohanpandey749/" style="text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/344/instagram-new.png" alt="Instagram" height="40" style="">
+  </a>&nbsp;
+ 
+ <a href="mailto:rohanpandey749@gmail.com" style="text-decoration: none;">
+  <img src="https://user-images.githubusercontent.com/79656610/153365045-a33a8dac-6632-4357-8194-8212ea23256b.png" alt="Gmail" height="40" style=""/></a>&nbsp;
+ 
+ <a href="https://auth.geeksforgeeks.org/user/rohanpandey749/practice/" style="text-decoration: none;">
+  <img src="https://img.icons8.com/color/344/GeeksforGeeks.png" alt="GeeksForGeeks" height="40" style=""/></a>&nbsp;
+<br>
+ </p>
+ <br>
+ <br>
+
+# My Projects
 <br>
 
-## React based Projects:
+## React based Projects:💂‍
 
 ### 1. [Choice-Predicting-App](https://rohan749.github.io/Choice-Predicting-App/)
 ### 2. [To-Do-List](https://rohan749.github.io/To-Do-List_react-app/)
@@ -91,29 +115,9 @@
 <br>
 <br>
 
- 
  <br>
-    
-# 📫 Let's Connect! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height ="40px" width="80px"> 
 
- <p align="center" style="margin-top:-10px">
- <a href="https://twitter.com/heyrohan7" style="text-decoration: none;"><img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png"  alt="Twitter" height="40" style=""/></a>&nbsp;
- 
- <a href="https://www.linkedin.com/in/rohan-kumar-pandey-25a263208/" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="; border-radius:5px;">
-  </a>&nbsp;
- 
- <a href="https://www.instagram.com/rohanpandey749/" style="text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/344/instagram-new.png" alt="Instagram" height="40" style="">
-  </a>&nbsp;
- 
- <a href="mailto:rohanpandey749@gmail.com" style="text-decoration: none;">
-  <img src="https://user-images.githubusercontent.com/79656610/153365045-a33a8dac-6632-4357-8194-8212ea23256b.png" alt="Gmail" height="40" style=""/></a>&nbsp;
- 
- <a href="https://auth.geeksforgeeks.org/user/rohanpandey749/practice/" style="text-decoration: none;">
-  <img src="https://img.icons8.com/color/344/GeeksforGeeks.png" alt="GeeksForGeeks" height="40" style=""/></a>&nbsp;
-<br>
- </p>
+#   Fun fact: 
 
-###  - Fun fact: I'm a fun loving artist. Checkout my creations on <a href="https://www.instagram.com/rohanpandey749/" style="text-decoration: none;">Instagram</a>
+##  I'm a fun loving artist. Checkout my creations on <a href="https://www.instagram.com/rohanpandey749/" style="text-decoration: none;">Instagram</a>
 
