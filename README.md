@@ -1,6 +1,6 @@
 #  Hey, I'm Rohan<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-### I'm a Programmer, Contributor, and Artist who just love to build stuff. Currently, I'm a sophomore, pursuing b-tech from Dayananda Sagar College of Engineering, Bengaluru.
+### I'm a programmer, contributor, and artist who just loves to build stuff. Currently, I'm a sophomore, pursuing B-tech from Dayananda Sagar College of Engineering, Bengaluru.
 <br>
 
 ## A bit about my Technical Background👇
@@ -105,9 +105,9 @@
 # Some of my threads on Web-Servers, Docker and Kubernetes!☸️ 
 
 ### - [What are Web Servers?](https://twitter.com/heyrohan7/status/1481443203077505024?s=20&t=_f_tUGLWkjnOGYAuOHWnZQ)
-### - [What are Kubernetes Objects? How to create a Deployment in your Local PC?](https://twitter.com/heyrohan7/status/1497926422181994498?s=20&t=7ECNQatL-82YeYYr4Qlvwg)
+### - [What are Kubernetes Objects? How do you make a deployment on your local computer?](https://twitter.com/heyrohan7/status/1497926422181994498?s=20&t=7ECNQatL-82YeYYr4Qlvwg)
 ### - [What are K8s Pods and how to create them?](https://twitter.com/heyrohan7/status/1498506043113967623?s=20&t=7ECNQatL-82YeYYr4Qlvwg)
-### - [How to containerize your webpage on local PC and view it?](https://twitter.com/heyrohan7/status/1500157555439325187?s=20&t=7ECNQatL-82YeYYr4Qlvwg)
+### - [How to containerize your webpage on a local PC and view it?](https://twitter.com/heyrohan7/status/1500157555439325187?s=20&t=7ECNQatL-82YeYYr4Qlvwg)
 
 <br>
         
