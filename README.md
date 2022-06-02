@@ -1,4 +1,4 @@
-#  Hey, I'm Rohan<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+#  Hey, I'm Rohan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="40px" width="40px">
 
 ### I'm a programmer, contributor, and artist who just loves to build stuff. Currently, I'm a sophomore, pursuing B-tech from Dayananda Sagar College of Engineering, Bengaluru.
 <br>
