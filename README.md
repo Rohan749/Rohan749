@@ -78,11 +78,11 @@
 
 ##  Projects using HTML, CSS and JavaScript:💂‍♀️<br>
 
-### 1. [Art Choice Predictor](https://github.com/Rohan749/Art-Choice-Predictor)
+### 1. [Random BG Changer](https://rohan749.github.io/Random-Background-Changing-Webpage/) 
 
 ### 2. [Graffiti Calculator](https://github.com/Rohan749/Basic-Calculator) 
  
-### 3. [Random BG Changer](https://rohan749.github.io/Random-Background-Changing-Webpage/) 
+### 3. [Art Choice Predictor](https://github.com/Rohan749/Art-Choice-Predictor) 
 
 ### 4. [Artist Webpage](https://github.com/Rohan749/Artist_webpage)  
 
