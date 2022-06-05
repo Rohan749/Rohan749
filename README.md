@@ -82,7 +82,7 @@
 
 ### 2. [Graffiti Calculator](https://github.com/Rohan749/Basic-Calculator) 
  
-### 3. [Random BG Changer](https://github.com/Rohan749/Random-Background-Changing-Webpage) 
+### 3. [Random BG Changer](https://rohan749.github.io/Random-Background-Changing-Webpage/) 
 
 ### 4. [Artist Webpage](https://github.com/Rohan749/Artist_webpage)  
 
