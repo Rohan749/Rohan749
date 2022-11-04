@@ -2,7 +2,8 @@
 
 ### I'm a programmer, content-creator, and artist who just loves to build stuff. Currently, I'm pursuing B-tech from Dayananda Sagar College of Engineering, Bengaluru.
 
-### I post contents related to web-technologies and best practices daily on instagram. Go check it out: [Instagram](https://www.instagram.com/_r.code_/)
+### I post contents related to web-technologies and best practices daily on instagram. 
+### Go check it out: [Instagram](https://www.instagram.com/_r.code_/) and [Showwcase](https://www.showwcase.com/rohan749)
 
 ### Also, checkout my Portfolio Website: [Rohan-Portfolio-Website](https://Rohan749.github.io/portfolio-rohan)
 
@@ -10,11 +11,12 @@
 
 ## A bit about my Technical Background👇
 
-### - 🔭 I've contributed to GWOC'21 in Front-end development.
-### - 🔭 I got selected in Script Winter of Contributing(SWOC'21).
-### - 🔭 I won HacktoberFest'21 by making valid contributions to this amazing open-source community!
-### - 🔭 I've successfully solved 250+ GeeksForGeeks problems!
-### - 🔭 I've been part of Top 2022 contributors of Rocket.Chat.
+### - 🔭 Content creator with 500+ followers on Showwcase.
+### - 🔭 Contributed to GWOC'21 in Front-end development.
+### - 🔭 Got selected in Script Winter of Contributing(SWOC'21).
+### - 🔭 Won HacktoberFest'21 by making valid contributions to this amazing open-source community!
+### - 🔭 Successfully solved 250+ GeeksForGeeks problems!
+### - 🔭 Part of Top 2022 contributors of Rocket.Chat.
 <br>
 <br>
 
