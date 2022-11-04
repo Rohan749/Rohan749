@@ -2,9 +2,9 @@
 
 ### I'm a programmer, content-creator, and artist who just loves to build stuff. Currently, I'm pursuing B-tech from Dayananda Sagar College of Engineering, Bengaluru.
 
-<br>
+### I post contents related to web-technologies and best practices daily on instagram. Go check it out: [Instagram](https://www.instagram.com/_r.code_/)
 
-### Checkout my Portfolio Website: https://Rohan749.github.io/portfolio-rohan
+### Also, checkout my Portfolio Website: [Rohan-Portfolio-Website](https://Rohan749.github.io/portfolio-rohan)
 
 <br>
 
