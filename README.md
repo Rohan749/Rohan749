@@ -1,6 +1,6 @@
 #  Hey, I'm Rohan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="40px" width="40px">
 
-### I'm a programmer, contributor, and artist who just loves to build stuff.Currently, I'm pursuing B-tech from Dayananda Sagar College of Engineering, Bengaluru.
+### I'm a programmer, content-creator, and artist who just loves to build stuff. Currently, I'm pursuing B-tech from Dayananda Sagar College of Engineering, Bengaluru.
 
 <br>
 
