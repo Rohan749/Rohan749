@@ -77,9 +77,10 @@
 
 ## React based Projects:💂‍
 
-### 1. [Choice-Predicting-App](https://rohan749.github.io/Choice-Predicting-App/)
-### 2. [To-Do-List](https://rohan749.github.io/To-Do-List_react-app/)
-### 3. [Expense-App](https://rohan749.github.io/Expenses-App/)
+### 1. [Amazon-Clone](https://rohan749.github.io/amazon-clone/)
+### 2. [Choice-Predicting-App](https://rohan749.github.io/Choice-Predicting-App/)
+### 3. [To-Do-List](https://rohan749.github.io/To-Do-List_react-app/)
+### 4. [Expense-App](https://rohan749.github.io/Expenses-App/)
 
 <br>
 
