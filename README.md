@@ -11,7 +11,7 @@
 
 ## A bit about my Technical Background👇
 
-### - 🔭 Content creator with 500+ followers on Showwcase.
+### - 🔭 I'm a React Developer and content creator with 500+ followers on Showwcase.
 ### - 🔭 Contributed to GWOC'21 in Front-end development.
 ### - 🔭 Got selected in Script Winter of Contributing(SWOC'21).
 ### - 🔭 Won HacktoberFest'21 by making valid contributions to this amazing open-source community!
@@ -40,11 +40,6 @@
   <img src="https://user-images.githubusercontent.com/79656610/153700581-282c6a67-b4b2-47f2-8217-6972104134b4.png" alt="MiniKube" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/79656610/153700584-835b5a83-fec2-4372-a3d2-336aac49b158.png" alt="Kubernetes" width="55" height="55"/>
 <p/>
-
-## Currently:
-
-###   - 🌱 I’m learning <strong>REACT</strong> 
-###   - 👯 I’m contributing to Rocket.Chat
 
 <br>
 <br>
