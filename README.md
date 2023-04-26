@@ -11,7 +11,7 @@
 
 ## A bit about my Technical Background👇
 
-### - 🔭 I'm a React Developer and content creator with 500+ followers on Showwcase.
+### - 🔭 I'm a React Developer and content creator with 500+ followers on Instagram and Showwcase.
 ### - 🔭 Contributed to GWOC'21 in Front-end development.
 ### - 🔭 Got selected in Script Winter of Contributing(SWOC'21).
 ### - 🔭 Won HacktoberFest'21 by making valid contributions to this amazing open-source community!
