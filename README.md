@@ -14,7 +14,7 @@
 ### - 🔭 React Developer and content creator with 500+ followers on Instagram and Showwcase.
 ### - 🔭 Contributed to GWOC'21 in Front-end development.
 ### - 🔭 Got selected in Script Winter of Contributing(SWOC'21).
-### - 🔭 Won HacktoberFest'21 by making valid contributions to this amazing open-source community!
+### - 🔭 Won HacktoberFest'21 by making valid contributions to the open-source community!
 ### - 🔭 Successfully solved 250+ GeeksForGeeks problems!
 ### - 🔭 Part of Top 2022 contributors of Rocket.Chat.
 <br>
