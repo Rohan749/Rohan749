@@ -7,6 +7,9 @@
 
 ### Also, checkout my Portfolio Website: [Rohan-Portfolio-Website](https://Rohan749.github.io/portfolio-rohan)
 
+
+### Here's my resume: [Resume](https://drive.google.com/file/d/1_KcAlUhbq9S0EZ6Ydwa-6zCfvbYp62wR/view?usp=sharing)
+
 <br>
 
 ## A bit about my Technical Background👇
