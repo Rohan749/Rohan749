@@ -8,7 +8,7 @@ I post contents related to web-technologies and best practice.
 Also, checkout my Portfolio Website: [Rohan-Portfolio-Website](https://Rohan749.github.io/portfolio-rohan)
 
 
-Here's my resume: [Resume](https://drive.google.com/file/d/1_KcAlUhbq9S0EZ6Ydwa-6zCfvbYp62wR/view?usp=sharing)
+Here's my resume: [Resume](https://drive.google.com/file/d/1RB07qSnNtPY3r9dFjO-GrSkL7yiC2xVq/view?usp=sharing)
 
 <br>
 
