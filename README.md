@@ -1,29 +1,29 @@
-# Hey, I'm Rohan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="40px" width="40px">
+# Hey, Myself Rohan! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="40px" width="40px">
 
-#### I'm a programmer, content-creator, and artist who just loves to build stuff. Currently, I'm pursuing B-tech from Dayananda Sagar College of Engineering, Bengaluru.
+### I'm a Builder at Buildorz who enjoys creating things.
 
-#### I post contents related to web-technologies and best practice. 
-#### Go check it out: [Instagram](https://www.instagram.com/_r.code_/) and [Showwcase](https://www.showwcase.com/rohan749)
+### I post contents related to web-technologies and best practice. 
+### Go check it out: [Instagram](https://www.instagram.com/_r.code_/) and [Showwcase](https://www.showwcase.com/rohan749)
 
-#### Also, checkout my Portfolio Website: [Rohan-Portfolio-Website](https://Rohan749.github.io/portfolio-rohan)
+### Also, checkout my Portfolio Website: [Rohan-Portfolio-Website](https://Rohan749.github.io/portfolio-rohan)
 
 
-#### Here's my resume: [Resume](https://drive.google.com/file/d/1RB07qSnNtPY3r9dFjO-GrSkL7yiC2xVq/view?usp=sharing)
+### Here's my resume: [Resume](https://drive.google.com/file/d/1RB07qSnNtPY3r9dFjO-GrSkL7yiC2xVq/view?usp=sharing)
 
 <br>
 
-#### A bit about my Technical Background👇
+### A bit about my Technical Background👇
 
-#### - 🔭 React Developer and content creator with 500+ followers on Instagram and Showwcase.
-#### - 🔭 Contributed to GWOC'21 in Front-end development.
-#### - 🔭 Got selected in Script Winter of Contributing(SWOC'21).
-#### - 🔭 Won HacktoberFest'21 by making valid contributions to the open-source community!
-#### - 🔭 Successfully solved 250+ GeeksForGeeks problems!
-#### - 🔭 Part of Top 2022 contributors of Rocket.Chat.
+### - 🔭 React Developer and content creator with 500+ followers on Instagram and Showwcase.
+### - 🔭 Contributed to GWOC'21 in Front-end development.
+### - 🔭 Got selected in Script Winter of Contributing(SWOC'21).
+### - 🔭 Won HacktoberFest'21 by making valid contributions to the open-source community!
+### - 🔭 Successfully solved 250+ GeeksForGeeks problems!
+### - 🔭 Part of Top 2022 contributors of Rocket.Chat.
 <br>
 <br>
 
-#### My Techstack
+### My Techstack
 <p align="center">
  <img src="https://user-images.githubusercontent.com/79656610/153699306-af31cd6d-8143-4877-b95d-72167f80cb3c.png" alt="C++" width="50" height="50"/>
  <img src="https://user-images.githubusercontent.com/79656610/153699416-b1272bcd-43ca-4c89-a7b6-8c05c25e4a69.png" alt="C" width="50" height="50"/>
@@ -47,7 +47,7 @@
 <br>
 <br>
 
-#### Connect with me! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height ="40px" width="80px"> 
+### Connect with me! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height ="40px" width="80px"> 
 
  <p align="center" style="margin-top:-10px">
  <a href="https://twitter.com/heyrohan7" style="text-decoration: none;"><img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png"  alt="Twitter" height="40" style=""/></a>&nbsp;
@@ -109,7 +109,7 @@
 <br>
 <br>
 
-#### Some of my threads on Web-Servers, Docker and Kubernetes!☸️ 
+### Some of my threads on Web-Servers, Docker and Kubernetes!☸️ 
 
 ### - [What are Web Servers?](https://twitter.com/heyrohan7/status/1481443203077505024?s=20&t=_f_tUGLWkjnOGYAuOHWnZQ)
 ### - [What are Kubernetes Objects? How do you make a deployment on your local computer?](https://twitter.com/heyrohan7/status/1497926422181994498?s=20&t=7ECNQatL-82YeYYr4Qlvwg)
