@@ -15,6 +15,7 @@
 ### A bit about my Technical Background👇
 
 ### - 🔭 React Developer and content creator with 700+ followers on Instagram and Showwcase.
+### - 🔭 Developed an npm package that received over 500 downloads within the first week of its launch.
 ### - 🔭 Contributed to GWOC'21 in Front-end development.
 ### - 🔭 Got selected in Script Winter of Contributing(SWOC'21).
 ### - 🔭 Won HacktoberFest'21 by making valid contributions to the open-source community!
