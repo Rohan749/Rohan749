@@ -8,7 +8,7 @@
 ### Also, checkout my Portfolio Website: [Rohan-Portfolio-Website](https://Rohan749.github.io/portfolio-rohan)
 
 
-### Here's my resume: [Resume](https://drive.google.com/file/d/1D6V4qN7_jw60ksjZhhicoXnvqqItDaa-/view?usp=sharing)
+### Here's my [Resume](https://drive.google.com/file/d/1EjA2FJgeQzzr2kxNUy6co2Uml6IGoenr/view?usp=sharing)
 
 <br>
 
@@ -75,11 +75,12 @@
 
 ### React based Projects:💂‍
 
-### 1. [Amazon-Clone](https://rohan749.github.io/amazon-clone/)
-### 2. [Blog-App](https://Rohan749.github.io/DevCode)
-### 3. [Choice-Predicting-App](https://rohan749.github.io/Choice-Predicting-App/)
-### 4. [To-Do-List](https://rohan749.github.io/To-Do-List_react-app/)
-### 5. [Expense-App](https://rohan749.github.io/Expenses-App/)
+### 1. [Listify-directory-app](https://rohan749.github.io/Listify-directory-app/)
+### 2. [Amazon-Clone](https://rohan749.github.io/amazon-clone/)
+### 3. [Blog-App](https://Rohan749.github.io/DevCode)
+### 4. [Choice-Predicting-App](https://rohan749.github.io/Choice-Predicting-App/)
+### 5. [To-Do-List](https://rohan749.github.io/To-Do-List_react-app/)
+### 6. [Expense-App](https://rohan749.github.io/Expenses-App/)
 
 <br>
 
