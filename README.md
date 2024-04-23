@@ -74,6 +74,12 @@
 # My Projects
 <br>
 
+
+### npm packages:💂‍
+
+### 1. [react-iconiq](https://www.npmjs.com/package/react-iconiq)
+<br/>
+
 ### React based Projects:💂‍
 
 ### 1. [Listify-directory-app](https://rohan749.github.io/Listify-directory-app/)
