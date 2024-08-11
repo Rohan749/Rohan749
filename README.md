@@ -8,7 +8,7 @@
 ### Also, checkout my Portfolio Website: [Rohan-Portfolio-Website](https://Rohan749.github.io/portfolio-rohan)
 
 
-### Here's my [Resume](https://drive.google.com/file/d/1EjA2FJgeQzzr2kxNUy6co2Uml6IGoenr/view?usp=sharing)
+### Here's my [Resume](https://docs.google.com/document/d/1pjj5ky8i58MqaHSDFxH5mgKchQwiT7RYZ--L0r_pmCc/edit?usp=sharing)
 
 <br>
 
