@@ -1,6 +1,6 @@
 # Hey, Myself Rohan! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="40px" width="40px">
 
-### I'm a Builder at Buildorz who enjoys creating things.
+### I'm a MERN stack developer!
 
 ### I post contents related to web-technologies and best practice. 
 ### Go check it out: [Instagram](https://www.instagram.com/_r.code_/) and [Showwcase](https://www.showwcase.com/rohan749)
@@ -75,9 +75,25 @@
 <br>
 
 
-### npm packages:💂‍
+### My npm packages:💂‍
 
 ### 1. [react-iconiq](https://www.npmjs.com/package/react-iconiq)
+<br/>
+<br/>
+
+### MERN based Fullstack Projects:
+### 1. [Twitter-clone](https://github.com/Rohan749/twitter-clone)
+### 2. [Chat-app](https://github.com/Rohan749/mern-chat-app)
+
+<br/>
+<br/>
+
+### 3D animation websites
+### 1. [Spellbrush website](https://rohan749.github.io/Spellbrush-fanmade-website/)
+### 2. [Gymclass VR](https://rohan749.github.io/3d-basketball-website/)
+### 3. [Blacksmith website](https://rohan749.github.io/blacksmith-3d-website/)
+
+<br/>
 <br/>
 
 ### React based Projects:💂‍
@@ -90,20 +106,22 @@
 ### 6. [Expense-App](https://rohan749.github.io/Expenses-App/)
 
 <br>
+<br>
 
 ### Projects using HTML, CSS and JavaScript:💂‍♀️<br>
 
 ### 1. [Random BG Changer](https://rohan749.github.io/Random-Background-Changing-Webpage/) 
+### 2. [Bionic Engineers](https://github.com/Rohan749/bionic-engineers) 
 
-### 2. [Graffiti Calculator](https://github.com/Rohan749/Basic-Calculator) 
+### 3. [Graffiti Calculator](https://github.com/Rohan749/Basic-Calculator) 
  
-### 3. [Art Choice Predictor](https://github.com/Rohan749/Art-Choice-Predictor) 
+### 4. [Art Choice Predictor](https://github.com/Rohan749/Art-Choice-Predictor) 
 
-### 4. [Artist Webpage](https://github.com/Rohan749/Artist_webpage)  
+### 5. [Artist Webpage](https://github.com/Rohan749/Artist_webpage)  
 
-### 5. [Stock Market Webpage](https://github.com/Rohan749/Stock-Market-Webpage) 
+### 6. [Stock Market Webpage](https://github.com/Rohan749/Stock-Market-Webpage) 
 
-### 6. [Food-Ordering Webpage](https://github.com/Rohan749/Food-ordering-webpage) 
+### 7. [Food-Ordering Webpage](https://github.com/Rohan749/Food-ordering-webpage) 
 
 <br>
 <br>
