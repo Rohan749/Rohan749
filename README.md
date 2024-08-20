@@ -3,7 +3,7 @@
 ### I'm a MERN stack developer!
 
 ### I post contents related to web-technologies and best practice. 
-### Go check it out: [Instagram](https://www.instagram.com/_r.code_/) and [Showwcase](https://www.showwcase.com/rohan749)
+### Go check it out: [Instagram](https://www.instagram.com/_r.code_/)
 
 ### Also, checkout my Portfolio Website: [Rohan-Portfolio-Website](https://Rohan749.github.io/portfolio-rohan)
 
