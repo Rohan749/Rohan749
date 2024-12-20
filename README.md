@@ -2,8 +2,9 @@
 
 ### I'm a Fullstack Blockchain developer!
 
-### I post contents related to web-technologies and best practice. 
-### Go check it out: [Instagram](https://www.instagram.com/_r.code_/)
+### I create contents related to web-technologies and best practice. 
+### Checkout my youtube channel: [Youtube](https://www.youtube.com/@_r.code_)
+### Also, my instagram: [Instagram](https://www.instagram.com/_r.code_/)
 
 ### Also, checkout my Portfolio Website: [Rohan-Portfolio-Website](https://Rohan749.github.io/portfolio-rohan)
 
