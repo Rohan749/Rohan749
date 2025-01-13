@@ -3,7 +3,7 @@
 ### I'm a Fullstack Blockchain developer!
 
 ### I create contents related to web-technologies and best practice. 
-### Checkout my youtube channel: [Youtube](https://www.youtube.com/@_r.code_)
+### Checkout my youtube channel: [Youtube](https://www.youtube.com/@rcode34)
 ### Also, my instagram: [Instagram](https://www.instagram.com/_r.code_/)
 
 ### Also, checkout my Portfolio Website: [Rohan-Portfolio-Website](https://Rohan749.github.io/portfolio-rohan)
