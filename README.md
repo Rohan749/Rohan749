@@ -1,6 +1,6 @@
 # Hey, Myself Rohan! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="40px" width="40px">
 
-### I'm a Fullstack Blockchain developer!
+### I'm a Fullstack developer!
 
 ### I create contents related to web-technologies and best practice. 
 ### Checkout my youtube channel: [Youtube](https://www.youtube.com/@rcode34)
