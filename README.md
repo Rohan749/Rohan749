@@ -26,29 +26,6 @@
 <br>
 
 
-### Connect with me! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height ="40px" width="80px"> 
-
- <p align="center" style="margin-top:-10px">
- <a href="https://twitter.com/heyrohan7" style="text-decoration: none;"><img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png"  alt="Twitter" height="40" style=""/></a>&nbsp;
- 
- <a href="https://www.linkedin.com/in/rohan-kumar-pandey-25a263208/" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="; border-radius:5px;">
-  </a>&nbsp;
- 
- <a href="https://www.instagram.com/rohanpandey749/" style="text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/344/instagram-new.png" alt="Instagram" height="40" style="">
-  </a>&nbsp;
- 
- <a href="mailto:rohanpandey749@gmail.com" style="text-decoration: none;">
-  <img src="https://user-images.githubusercontent.com/79656610/153365045-a33a8dac-6632-4357-8194-8212ea23256b.png" alt="Gmail" height="40" style=""/></a>&nbsp;
- 
- <a href="https://auth.geeksforgeeks.org/user/rohanpandey749/practice/" style="text-decoration: none;">
-  <img src="https://img.icons8.com/color/344/GeeksforGeeks.png" alt="GeeksForGeeks" height="40" style=""/></a>&nbsp;
-<br>
- </p>
- <br>
- <br>
-
 # My Projects
 <br>
 
