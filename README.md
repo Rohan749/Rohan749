@@ -6,9 +6,6 @@
 ### Checkout my youtube channel: [Youtube](https://www.youtube.com/@rcode34)
 ### Also, my instagram: [Instagram](https://www.instagram.com/_r.code_/)
 
-### Also, checkout my Portfolio Website: [Rohan-Portfolio-Website](https://Rohan749.github.io/portfolio-rohan)
-
-
 ### Here's my [Resume](https://docs.google.com/document/d/1pjj5ky8i58MqaHSDFxH5mgKchQwiT7RYZ--L0r_pmCc/edit?usp=sharing)
 
 <br>
